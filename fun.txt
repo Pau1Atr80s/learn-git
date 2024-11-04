@@ -1,2 +1,3 @@
 I am a beginner coder...
 Now I am trying to make a change in the GitHub rep directly!
+I tried a "git pull" and it worked!  Now trying to commit some more changes.
